@@ -1,6 +1,6 @@
-# solar_system
+# Planetary_System
 
-This is a blender file of a fictional solar system with all the textures.
+This is a blender file of a fictional planetary system with all the textures.
 
-The solar system consists of seven planets and a sun with a background with an effect
+The planetary system consists of seven planets , a star with a background effect
 This file can be edited as per the requirement.
